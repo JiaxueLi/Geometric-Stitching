@@ -4,7 +4,6 @@ Geometric-Stitching
 ## Methodology
 
 ### A. In-orbit geometric calibration
-
 aim: 
 
 ### B. Distorted virtual camera assignment
