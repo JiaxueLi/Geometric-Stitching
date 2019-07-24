@@ -15,3 +15,8 @@ Geometric-Stitching
 
 ##  Results and Discussion
 
+
+## Word abbreviation
+HaiYang-1C (HY-1C) satellite  
+complementary metal oxide semiconductor (CMOS)  
+ultra violet imager (UVI)  
