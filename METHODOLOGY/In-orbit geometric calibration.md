@@ -19,4 +19,4 @@ and only the ***interior parameters*** were then calibrated.
 ## The normalized detector size difference
 After the geometric calibration, we can obtain the normalized coordinates of ***each imaging detector*** in the camera coordinate system of camera 3.
 
-However, the actual normalized detector sizes of the original five UVI cameras differ a lot because the largest imaging-detector look angle reaches approximately 56º.
+However, the actual normalized detector sizes of the original five UVI cameras differ a lot because ***the largest imaging-detector look angle reaches approximately 56º***.
