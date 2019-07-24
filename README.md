@@ -1,6 +1,6 @@
 # Geometric-Stitching
 
-METHODOLOGY
+# METHODOLOGY
 
 A. In-orbit geometric calibration
 
