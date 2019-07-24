@@ -8,3 +8,7 @@ Geometric-Stitching
 ## B. Distorted virtual camera assignment
 
 ## C. Geometric stitching
+
+
+# Results and Discussion
+
