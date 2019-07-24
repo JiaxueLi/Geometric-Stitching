@@ -5,7 +5,7 @@ Geometric-Stitching
 
 ### 1. In-orbit geometric calibration (indispensable step)
 - here with respect to the HY-1C UVI cameras.
-- Aim: to obtain the precise imaging parameters of satellite cameras.
+- Aim: to obtain the precise imaging parameters of satellite cameras, with improving the interior and exterior orientation accuracy of satellite images.
 
 
 ### 2. Distorted virtual camera assignment
