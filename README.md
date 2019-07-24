@@ -1,4 +1,4 @@
-# Geometric-Stitching
+Geometric-Stitching
 ===
 
 # methodology
