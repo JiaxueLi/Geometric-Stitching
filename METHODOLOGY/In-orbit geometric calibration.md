@@ -10,8 +10,8 @@ three rotation matrix (angles)
 a look-angle model is often used to model the normalized detector coordinates
 
 ## The geometric calibration between the five UVI cameras
-- absolute geometric calibration
+- absolute geometric calibration  
 both the ***exterior and interior*** parameters of the reference camera were first calibrated.
-- relative geometric calibration
+- relative geometric calibration  
 the exterior parameters of the reference camera were applied to the nonreference cameras  
 and only the ***interior parameters*** were then calibrated.
