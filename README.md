@@ -3,8 +3,9 @@ Geometric-Stitching
 
 ## Methodology
 
-### A. In-orbit geometric calibration
-aim: to obtain the precise imaging parameters of satellite cameras.
+### A. In-orbit geometric calibration (indispensable step)
+Aim: to obtain the precise imaging parameters of satellite cameras.
+
 
 ### B. Distorted virtual camera assignment
 
