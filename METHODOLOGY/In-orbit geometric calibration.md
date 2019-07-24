@@ -17,4 +17,4 @@ the exterior parameters of the reference camera were applied to the nonreference
 and only the ***interior parameters*** were then calibrated.
 
 ## The normalized detector size difference
-After the geometric calibration, we can obtain the normalized coordinates of each imaging detector in the camera coordinate system of camera 3.
+After the geometric calibration, we can obtain the normalized coordinates of ***each imaging detector*** in the camera coordinate system of camera 3.
