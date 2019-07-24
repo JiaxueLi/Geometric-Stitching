@@ -1,14 +1,14 @@
 Geometric-Stitching
 ===
 
-# Methodology
+## Methodology
 
-## A. In-orbit geometric calibration
+### A. In-orbit geometric calibration
 
-## B. Distorted virtual camera assignment
+### B. Distorted virtual camera assignment
 
-## C. Geometric stitching
+### C. Geometric stitching
 
 
-# Results and Discussion
+## Results and Discussion
 
