@@ -9,6 +9,8 @@ Geometric-Stitching
 
 
 ### 2. Distorted virtual camera assignment
+- The virtual camera assignment is the key link in the geometric stitching of the HY-1C UVI.
+- The detector size difference between the virtual camera and the original cameras directly determines the GSD difference between the stitched image and the original sub-images.
 
 ### 3. Geometric stitching
 
