@@ -5,3 +5,5 @@ The ***detector size difference*** between the ***virtual camera***  and the ***
 which resulted in a significant normalized detector size difference.
 
 
+## Camera assignment
+
